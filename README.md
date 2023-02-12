@@ -15,7 +15,9 @@
 ## Mattermost
 
 - O canal de mattermost “Engenharia de Segurança” é utilizado para deixar avisos, assim como para apoio aos alunos;
-- <https://chat.devisefutures.com/signup_user_complete/?id=hj4j9qob9idy8ktboot5o53xca&sbr=fa>.
+- Registe-se através de <https://chat.devisefutures.com/signup_user_complete/?id=hj4j9qob9idy8ktboot5o53xca&sbr=fa>.
+
+Nota: Obtenha a app para o seu desktop ou dispositivo móvel em <https://mattermost.com/apps/>
 
 ## Horário de acompanhamento
 
