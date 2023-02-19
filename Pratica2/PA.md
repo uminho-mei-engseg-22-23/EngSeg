@@ -28,8 +28,8 @@ A avaliação do PA será efetuada entre 0 e 20 valores. Quem entregar antes da 
 
 Exemplificando:
 
-+ o Grupo A entrega o PA no dia 03/03/2021 e tem uma avaliação de 15 valores. Como entregou 10 dias antes terá 10% de valorização, sendo a sua nota final de 16,5 valores.
-+ o Grupo B entrega o PA no dia 08/03/2021 e tem uma avaliação de 15 valores. Como entregou 5 dias antes terá 5% de valorização, sendo a sua nota final de 15,75 valores.
++ o Grupo A entrega o PA no dia 10/03/2021 e tem uma avaliação de 15 valores. Como entregou 10 dias antes terá 10% de valorização, sendo a sua nota final de 16,5 valores.
++ o Grupo B entrega o PA no dia 15/03/2021 e tem uma avaliação de 15 valores. Como entregou 5 dias antes terá 5% de valorização, sendo a sua nota final de 15,75 valores.
 
 ## 3. Projeto
 
