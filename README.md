@@ -25,6 +25,12 @@ Os alunos devem contactar o docente para marcar horário de acompanhamento (extr
 
 ## Avisos
 
+**19/Fev/2023**
+
+- Publicado os slides da aula 2 em [slides](slides).
+- Publicado o video da aula 2 em [video_aulas](video_aulas).
+- Publicada a ficha de trabalho da aula 2 em [Pratica1](Pratica1).
+
 **12/Fev/2023**
 
 - Foi disponibilizado a apresentação utilizada na primeira aula da UC, em [slides](slides).
