@@ -59,7 +59,7 @@ O trabalho de todos os grupos é dividido em duas partes:
 Nota:
 
 + Nesta UC, todos os trabalhos da parte *Prática 2* irão estar relacionados direta ou indiretamente com a EUDIW, pelo que se espera que utilizem este PA para ficarem com um bom conhecimento base da mesma quer do ponto de vista técnico como jurídico;
-+ O **relatório** deverá conter as duas partes referidas em cima (A e B), esperando-se que a  parte B tenha detalhe adequado à análise pedida;
++ O **relatório** deverá conter as duas partes referidas em cima (A e B), esperando-se que a  parte B tenha detalhe adequado à análise pedida. O relatório tem de ser escrito em português de Portugal - se existirem palavras ou expressões que são melhor compreendidas em inglês, deixem-nas em inglês e escrevam-nas em itálico.
 + A **apresentação**, e dado que todos os grupos tiveram que fazer uma análise resumida da EUDIW, deve apenas refletir a análise detalhada que lhe foi pedida para a parte B (com um máximo de dois slides iniciais referente ao enquadramento da parte B na parte A).
 
 #### 3.3.1 Parte B

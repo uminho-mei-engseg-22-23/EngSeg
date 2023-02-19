@@ -1,5 +1,11 @@
 # Github de acompanhamento às aulas de Engenharia de Segurança 2022/23
 
+# NOTA
+
+# 1. A aula do dia 21/Fev será pré-gravada, encontrando-se a mesma já nos [video_aulas](video_aulas). Os slides estão em [slides](slides) e a ficha de trabalho encontra-se em [Pratica1](Pratica1)
+
+# 2. A aula do dia 28/Fev será pré-gravada, devido ao docente não se encontrar em Portugal. Encontrará aqui mais informações até ao dia 27/Fev
+
 ## Sub-diretorias
 
 - [Bibliografia](Bibliografia) - Bibliografia relevante.
