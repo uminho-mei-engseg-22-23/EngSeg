@@ -53,8 +53,8 @@ Do ponto de vista técnico, a EUDIW está definida na [European Digital Identity
 
 O trabalho de todos os grupos é dividido em duas partes:
 
-+ parte A - análise resumida da EUDIW na sua globalidade,
-+ parte B - análise detalhada (e seu enquadramento na EUDIW) de um componente/protocolo/standard utilizado na EUDIW (diferente por cada Grupo, e indicado abaixo).
++ parte A - **análise resumida** da EUDIW na sua globalidade,
++ parte B - **análise detalhada** (e seu enquadramento na EUDIW) de um componente/protocolo/standard utilizado na EUDIW (diferente por cada Grupo, e indicado abaixo).
 
 Nota:
 
