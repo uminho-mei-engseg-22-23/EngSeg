@@ -38,7 +38,7 @@ Desenvolva em python (utilizando a biblioteca [PyCryptodome](https://pycryptodom
 > input_file o ficheiro sobre o qual aplicar a operação, e output_file é o ficheiro resultante
 > da aplicação da operação sobre input_file.
 
-3. No caso de existira algum erro nos parâmetros ou com a execução da operação, a aplicação deverá fornecer uma mensagem adequada de erro.
+3. No caso de existir algum erro nos parâmetros ou com a execução da operação, a aplicação deverá fornecer uma mensagem adequada de erro.
 
 #### IV.2 _Block cipher_
 
@@ -56,7 +56,7 @@ O modo de operação GCM (_Galois Counter Mode_) é cada vez mais utilizado devi
 > input_file o ficheiro sobre o qual aplicar a operação, e output_file é o ficheiro resultante
 > da aplicação da operação sobre input_file.
 
-3. No caso de existira algum erro nos parâmetros ou com a execução da operação, a aplicação deverá fornecer uma mensagem adequada de erro.
+3. No caso de existir algum erro nos parâmetros ou com a execução da operação, a aplicação deverá fornecer uma mensagem adequada de erro.
 
 ##### Experiência IV.2.1
 
