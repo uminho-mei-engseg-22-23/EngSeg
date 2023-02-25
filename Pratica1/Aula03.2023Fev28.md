@@ -33,7 +33,7 @@ Desenvolva em python (utilizando a biblioteca [PyCryptodome](https://pycryptodom
 1. Indique o  tamanho do nonce que vai utilizar, conforme boas práticas definidas no [IETF RFC 7539](https://datatracker.ietf.org/doc/html/rfc7539).
 2. A aplicação desenvolvida **só** pode obter os parâmteros necessários como argumentos da linha de comando. Por exemplo:
 
-> chacha20 -operação chave input_file output_file
+``chacha20 -operação chave input_file output_file``
 > em que operação pode ser cifra ou decifra, chave é a chave a utilizar para a operação,
 > input_file o ficheiro sobre o qual aplicar a operação, e output_file é o ficheiro resultante
 > da aplicação da operação sobre input_file.
@@ -51,7 +51,7 @@ O modo de operação GCM (_Galois Counter Mode_) é cada vez mais utilizado devi
 1. Desenvolva em java (utilizando os _providers_ do _Bouncy Castle_) uma aplicação linha de comando que utilize o AES-128-GCM (com IV de 12 bytes aleatório e diferente em cada utilização, e Tag de 128 bits) para cifrar um ficheiro.
 2. A aplicação desenvolvida **só** pode obter os parâmteros necessários como argumentos da linha de comando. Por exemplo:
 
-> aes -operação chave input_file output_file
+``aes -operação chave input_file output_file``
 > em que operação pode ser cifra ou decifra, chave é a chave a utilizar para a operação,
 > input_file o ficheiro sobre o qual aplicar a operação, e output_file é o ficheiro resultante
 > da aplicação da operação sobre input_file.
