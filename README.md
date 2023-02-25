@@ -2,9 +2,7 @@
 
 # NOTA
 
-# 1. A aula do dia 21/Fev será pré-gravada, encontrando-se a mesma já nos [video_aulas](video_aulas). Os slides estão em [slides](slides) e a ficha de trabalho encontra-se em [Pratica1](Pratica1)
-
-# 2. A aula do dia 28/Fev será pré-gravada, devido ao docente não se encontrar em Portugal. Encontrará aqui mais informações até ao dia 27/Fev
+# 1. A aula do dia 28/Fev é pré-gravada, encontrando-se a mesma já nos [video_aulas](video_aulas). Os slides estão em [slides](slides) e a ficha de trabalho encontra-se em [Pratica1](Pratica1)
 
 ## Sub-diretorias
 
@@ -30,6 +28,12 @@ Nota: Obtenha a app para o seu desktop ou dispositivo móvel em <https://matterm
 Os alunos devem contactar o docente para marcar horário de acompanhamento (extra aulas), sempre que necessitarem.
 
 ## Avisos
+
+**25/Fev/2023**
+
+- Publicado os slides da aula 3 em [slides](slides).
+- Publicado o video da aula 3 em [video_aulas](video_aulas).
+- Publicada a ficha de trabalho da aula 3 em [Pratica1](Pratica1).
 
 **19/Fev/2023**
 

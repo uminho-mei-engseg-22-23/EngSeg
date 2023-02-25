@@ -18,3 +18,15 @@
 
 + Exercícios sobre a componente teórica.
 + Projeto de análise de um tema (PA)
+
+## Semana 3 - 28/Fev/2023
+
+**Teórica**:
+
++ Parte III: Segurança da Informação
++ Parte IV: Cifras simétricas
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de análise de um tema (PA)
