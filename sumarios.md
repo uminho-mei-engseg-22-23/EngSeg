@@ -30,3 +30,15 @@
 
 + Exercícios sobre a componente teórica.
 + Projeto de análise de um tema (PA)
+
+## Semana 4 - 07/Mar/2023
+
+**Teórica**:
+
++ Parte V: Funções de sentido único
++ Parte VI: Acordo de chaves
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de análise de um tema (PA)
