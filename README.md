@@ -1,5 +1,11 @@
 # Github de acompanhamento às aulas de Engenharia de Segurança 2022/23
 
+----
+
+### Nota: A aula do dia 14 de Março será disponibilizada pré-gravada, já que nesse dia o docente não se encontra em Portugal
+
+----
+
 ## Sub-diretorias
 
 - [Bibliografia](Bibliografia) - Bibliografia relevante.
@@ -25,10 +31,16 @@ Os alunos devem contactar o docente para marcar horário de acompanhamento (extr
 
 ## Avisos
 
+**12/Mar/2023**
+
+- Publicado os slides da aula 5 em [slides](slides).
+- Publicado o video da aula 5 em [video_aulas](video_aulas).
+- Publicada a ficha de trabalho da aula 5 em [Pratica1](Pratica1).
+
 **04/Mar/2023**
 
-- Publicado os slides da aula 3 em [slides](slides).
-- Publicada a ficha de trabalho da aula 3 em [Pratica1](Pratica1).
+- Publicado os slides da aula 4 em [slides](slides).
+- Publicada a ficha de trabalho da aula 4 em [Pratica1](Pratica1).
 
 **25/Fev/2023**
 

@@ -42,3 +42,20 @@
 
 + Exercícios sobre a componente teórica.
 + Projeto de análise de um tema (PA)
+
+## Semana 5 - 14/Mar/2023
+
+**Teórica**:
+
++ Parte VII: Criptografia de chave pública
+  + Cifra assimétrica
+  + Assinatura Digital
+  + Algoritmo RSA
+  + Algoritmo EL-Gamal
+  + Criptografia de curvas elípticas
+  + Utilização
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de análise de um tema (PA)
