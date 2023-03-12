@@ -2,7 +2,7 @@
 
 ----
 
-## Nota: A aula do dia 14 de Março será disponibilizada pré-gravada, já que nesse dia o docente não se encontra em Portugal
+## Nota: A aula do dia 14 de Março é disponibilizada pré-gravada, já que nesse dia o docente não se encontra em Portugal
 
 ----
 
