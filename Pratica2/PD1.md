@@ -26,6 +26,10 @@ Data: A indicar
 
 A avaliação do PD1 será efetuada entre 0 e 20 valores. Quem entregar antes da data limite tem uma valorização de 1% na sua nota por cada dia de antecipação.
 
+### 2.1 Grupos com mais de 3 alunos
+
+Os grupos com mais de 3 alunos devem apresentar no seu relatório, as funcionalidades/componentes/outros que efetuaram para além do que lhes era pedido no enunciado.
+
 ----
 
 ## 3. Projeto
