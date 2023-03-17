@@ -59,3 +59,22 @@
 
 + Exercícios sobre a componente teórica.
 + Projeto de análise de um tema (PA)
+
+## Semana 6 - 21/Mar/2023
+
+**Teórica**:
+
++ Parte VIII: Infraestrutura de chave pública
+  + Arquitetura e aspetos operacionais
+  + Certificados X.509
+  + Cadeias de certificação / confiança
+  + Perfis e políticas de certificados
+  + Lista de revogação de certificados e OCSP
+  + Serviço de Timestamp
+  + Legislação relevante (eIDAS, DL 12/2021, ...)
+  + Utilização
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 1 (PD1)

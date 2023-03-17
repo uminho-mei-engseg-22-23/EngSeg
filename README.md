@@ -2,8 +2,6 @@
 
 ----
 
-## Nota: A aula do dia 14 de Março é disponibilizada pré-gravada, já que nesse dia o docente não se encontra em Portugal
-
 ----
 
 ## Sub-diretorias
@@ -30,6 +28,12 @@ Nota: Obtenha a app para o seu desktop ou dispositivo móvel em <https://matterm
 Os alunos devem contactar o docente para marcar horário de acompanhamento (extra aulas), sempre que necessitarem.
 
 ## Avisos
+
+**17/Mar/2023**
+
+- Publicado os slides da aula 5 em [slides](slides).
+- Publicada a ficha de trabalho da aula 5 em [Pratica1](Pratica1).
+- Publicado o enunciado do trabalho de PD1 em [Pratica2](Pratica2).
 
 **12/Mar/2023**
 
