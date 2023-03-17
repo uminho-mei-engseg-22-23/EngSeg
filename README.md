@@ -31,8 +31,8 @@ Os alunos devem contactar o docente para marcar horário de acompanhamento (extr
 
 **17/Mar/2023**
 
-- Publicado os slides da aula 5 em [slides](slides).
-- Publicada a ficha de trabalho da aula 5 em [Pratica1](Pratica1).
+- Publicado os slides da aula 6 em [slides](slides).
+- Publicada a ficha de trabalho da aula 6 em [Pratica1](Pratica1).
 - Publicado o enunciado do trabalho de PD1 em [Pratica2](Pratica2).
 
 **12/Mar/2023**
