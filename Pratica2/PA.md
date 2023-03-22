@@ -1,26 +1,21 @@
 # Avaliação prática 2 - Projeto de análise de um tema (PA)
 
 De seguida são apresentados os vários projetos de análise de um tema. O relatório final deverá ser colocado na área do Grupo no github até ao dia 20/03/2022, na subdiretoria "AP2-PA".
-A apresentação e discussão do trabalho será posteriormente marcada em data/hora a indicar.
+
 
 ## 1. Data e horário de apresentação do trabalho
 
-Data: A indicar
+Data: Os trabalhos serão apresentados durante a segunda parte da aula de 3ª feira, de acordo com as datas indicadas abaixo. Os grupos terão 15 minutos para fazer a apresentação, seguida de 5 - 10 minutos de questões.
 
-+ Grupo 1 -
-+ Grupo 2 -
-+ Grupo 3 -
-+ Grupo 4 -
-+ Grupo 5 -
-+ Grupo 6 -
-+ Grupo 7 -
-+ Grupo 8 -
-+ Grupo 9 -
-+ Grupo 10 -
-+ Grupo 11 -
-+ Grupo 12 -
-+ Grupo 13 -
-+ Grupo 14 -
++ Grupo 1 - 28/03/2023
++ Grupo 2 - 28/03/2023
++ Grupo 3 - 28/03/2023
++ Grupo 4 - 11/04/2023
++ Grupo 5 - 18/04/2023
++ Grupo 6 - 11/04/2023
++ Grupo 7 - 11/04/2023
++ Grupo 8 - 18/04/2023
++ Grupo 9 - 18/04/2023
 
 ## 2. Avaliação do PA
 
