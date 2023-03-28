@@ -14,7 +14,7 @@ No slide 23 da aula de hoje é indicado que, na prática, as cifras assimétrica
 
    + A cifra simétrica a utilizar é o ChaCha20;
    + A chave de sessão é gerada aleatoriamente pelo seu programa e não necessita de passwd fornecida pela linha de comando;
-   + O par de chaves é gerado pelo seu programa, e utilize RSA;
+   + O par de chaves é gerado pelo seu programa, e utilize RSA (grupos com número impar) ou curvas elípticas (grupos com número par);
    + Na operação de cifra, o seu programa deve ter a opção de gravar a chave privada e a chave pública em ficheiros, sendo que a chave privada deve estar protegida por password. Reutilize o que tinha feito na resposta à pergunta P.V.1.1 da semana passada, para que a entropia da password que lhe é fornecida possa ser amplificada;
    + Na operação de cifra, o seu programa deve ter a opção de lhe ser passada a chave pública pela linha de comando (guardada num ficheiro);
    + Na operação de decifra, o seu programa tem de ter a opção de lhe ser passada a chave privada pela linha de comando (guardada num ficheiro);
