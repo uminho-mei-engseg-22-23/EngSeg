@@ -78,3 +78,37 @@
 
 + Exercícios sobre a componente teórica.
 + Projeto de desenvolvimento 1 (PD1)
+
+## Semana 7 - 28/Mar/2023
+
+**Teórica**:
+
++ Parte IX: Criptografia aplicada
+  + Gerador de número aleatórios / pseudo-aleatórios
+  + Partilha/Divisão de segredo (Secret Sharing/Splitting)
+  + Authenticated encryption
+  + Algoritmos e tamanho de chaves - Legacy, Futuro
+  + Assinaturas cegas (blind signatures)
+  + Criptografia homomórfica
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 1 (PD1)
++ Apresentações do PA
+
+## Semana 8 - 11/Abr/2023
+
+**Teórica**:
+
++ Parte X: Aplicações e protocolos
+  + TLS
+  + SSH
+  + TOR
+  + Blockchain/DLT
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 1 (PD1)
++ Apresentações do PA

@@ -1,6 +1,6 @@
 # Aula TP - 28/Mar/2023
 
-Cada grupo deve colocar a resposta às **perguntas** (note que pode colocar as respostas às **experiências**, mas estas não irão contar para avaliação) dos seguintes exercícios na área do seu grupo no Github até ao final do dia 11/Abr/23. Por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
+Cada grupo deve colocar a resposta às **perguntas** (note que pode colocar as respostas às **experiências**, mas estas não irão contar para avaliação) dos seguintes exercícios na área do seu grupo no Github até ao final do dia 18/Abr/23. Por cada dia de atraso será descontado 0,15 valores à nota desse trabalho.
 
 ## Exercícios - Parte IX: Criptografia aplicada
 
