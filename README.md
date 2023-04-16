@@ -29,6 +29,11 @@ Os alunos devem contactar o docente para marcar horário de acompanhamento (extr
 
 ## Avisos
 
+**16/Abr/2023**
+
+- Publicado os slides da aula 9 em [slides](slides).
+- Publicada a ficha de trabalho da aula 9 em [Pratica1](Pratica1).
+
 **08/Abr/2023**
 
 - Publicado os slides da aula 8 em [slides](slides).

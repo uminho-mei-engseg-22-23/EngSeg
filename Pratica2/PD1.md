@@ -68,7 +68,7 @@ Sugere-se a utilização da interface Java para PKCS#11, jacknji11, que pode enc
 O Grupo 1 efetuará este projecto recorrendo ao emulador de HSM [SoftHSM v2](https://github.com/opendnssec/SoftHSMv2), disponibilizando a seguinte funcionalidade mínima:
 
 + a criação de par de chaves, utilizando algoritmos RSA;
-+ a criação de chaves simétricas, utilizando algorimo AES;
++ a criação de chaves simétricas, utilizando algoritmo AES;
 + a assinatura, cifra, decifra e verificação de assinatura com par de chaves,
 + a cifra e decifra com chaves simétricas,
 + a listagem das chaves existentes no HSM.
@@ -78,7 +78,7 @@ O Grupo 1 efetuará este projecto recorrendo ao emulador de HSM [SoftHSM v2](htt
 O Grupo 1 efetuará este projecto recorrendo ao emulador de HSM Utimaco HSM simulator. O simulador pode ser obtido gratuitamente a partir de <https://support.hsm.utimaco.com/hsm-simulator>, disponibilizando a seguinte funcionalidade mínima:
 
 + a criação de par de chaves, utilizando algoritmos RSA;
-+ a criação de chaves simétricas, utilizando algorimo AES;
++ a criação de chaves simétricas, utilizando algoritmo AES;
 + a assinatura, cifra, decifra e verificação de assinatura com par de chaves,
 + a cifra e decifra com chaves simétricas,
 + a listagem das chaves existentes no HSM.
@@ -88,7 +88,7 @@ O Grupo 1 efetuará este projecto recorrendo ao emulador de HSM Utimaco HSM simu
 O Grupo 1 efetuará este projecto recorrendo ao emulador de HSM [SoftHSM v2](https://github.com/opendnssec/SoftHSMv2), disponibilizando a seguinte funcionalidade mínima:
 
 + a criação de par de chaves, utilizando algoritmos ECDSA;
-+ a criação de chaves simétricas, utilizando algorimo Triple-DES (3DES);
++ a criação de chaves simétricas, utilizando algoritmo Triple-DES (3DES);
 + a assinatura, cifra, decifra e verificação de assinatura com par de chaves,
 + a cifra e decifra com chaves simétricas,
 + a listagem das chaves existentes no HSM.
@@ -98,7 +98,7 @@ O Grupo 1 efetuará este projecto recorrendo ao emulador de HSM [SoftHSM v2](htt
 O Grupo 1 efetuará este projecto recorrendo ao emulador de HSM Utimaco HSM simulator. O simulador pode ser obtido gratuitamente a partir de <https://support.hsm.utimaco.com/hsm-simulator>, disponibilizando a seguinte funcionalidade mínima:
 
 + a criação de par de chaves, utilizando algoritmos ECDSA;
-+ a criação de chaves simétricas, utilizando algorimo Triple-DES (3DES);
++ a criação de chaves simétricas, utilizando algoritmo Triple-DES (3DES);
 + a assinatura, cifra, decifra e verificação de assinatura com par de chaves,
 + a cifra e decifra com chaves simétricas,
 + a listagem das chaves existentes no HSM..
@@ -137,18 +137,18 @@ O EUDIW ARF indica que os dados do tipo 2 devem ser criados nos formatos a segui
 Proponha estrutura de dados para EAA, de acordo com os requisitos do ARF, e através de uma aplicação de comando linha (CLI - *command line interface*):
 
 + crie EAA no formato JSON/JSON-LD + JWT;
-+ valide PID criados no formato JSON/JSON-LD + JWT.
++ valide EAA criados no formato JSON/JSON-LD + JWT.
 
 #### 3.3.2 Grupo 7
 
 Proponha estrutura de dados para EAA, de acordo com os requisitos do ARF, e através de uma aplicação de comando linha (CLI - *command line interface*):
 
 + crie EAA no formato JSON-LD + LD-Proofs;
-+ valide PID criados no formato JSON-LD + LD-Proofs.
++ valide EAA criados no formato JSON-LD + LD-Proofs.
 
 #### 3.3.3 Grupo 8
 
 Proponha estrutura de dados para EAA, de acordo com os requisitos do ARF, e através de uma aplicação de comando linha (CLI - *command line interface*):
 
 + crie EAA no formato ISO 18013-5:2021 em CBOR;
-+ valide PID criados no formato ISO 18013-5:2021 em CBOR.
++ valide EAA criados no formato ISO 18013-5:2021 em CBOR.
