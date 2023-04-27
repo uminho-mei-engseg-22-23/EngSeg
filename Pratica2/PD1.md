@@ -3,24 +3,21 @@
 De seguida são apresentados os vários projetos para consolidação dos conceitos básicos de criptografia. O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 24/04/2023, na subdiretoria "AP2-PD1" (**Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente (que se espera que seja preferencialmente Linux)**).
 A apresentação e discussão do trabalho será posteriormente marcada em data/hora a indicar.
 
-## 1. Data e horário de apresentação do trabalho
+## 1. Data e horário de apresentação do trabalho PD1
 
-Data: A indicar
+Data: Os trabalhos serão apresentados durante a segunda parte da aula de 3ª feira, de acordo com as datas indicadas abaixo. Os grupos terão 10 minutos para fazer a apresentação oral, seguida de 10 minutos de apresentação do trabalho a funcionar, a que se seguirá 5 - 10 minutos de questões.
 
-+ Grupo 1 -
-+ Grupo 2 -
-+ Grupo 3 -
-+ Grupo 4 -
-+ Grupo 5 -
-+ Grupo 6 -
-+ Grupo 7 -
-+ Grupo 8 -
-+ Grupo 9 -
-+ Grupo 10 -
-+ Grupo 11 -
-+ Grupo 12 -
-+ Grupo 13 -
-+ Grupo 14 -
++ Grupo 1 - 02/53/2023
++ Grupo 2 - 02/05/2023
++ Grupo 3 - 02/05/2023
++ Grupo 4 - 16/05/2023
++ Grupo 5 - 16/05/2023
++ Grupo 6 - 16/05/2023
++ Grupo 7 - 23/05/2023
++ Grupo 8 - 23/05/2023
++ Grupo 9 - 23/05/2023
+
+Nota: Para além da apresentação oral do trabalho, também se vai querer ver o trabalho a funcionar, assim como aceder ao código fonte para que possam explicar código desenvolvido.
 
 ## 2. Avaliação do PD1
 
