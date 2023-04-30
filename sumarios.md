@@ -130,3 +130,15 @@
 + Exercícios sobre a componente teórica.
 + Projeto de desenvolvimento 1 (PD1)
 + Apresentações do PA
+
+## Semana 10 - 02/Mai/2023
+
+**Teórica**:
+
++ RGPD (Regulamento Geral de Proteção de Dados) - visão técnica, e suas consequências para a Engenharia de Segurança e Desenvolvimento de Software.
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 2 (PD2)
++ Apresentações do PD1

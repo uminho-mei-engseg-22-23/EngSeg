@@ -29,6 +29,11 @@ Os alunos devem contactar o docente para marcar horário de acompanhamento (extr
 
 ## Avisos
 
+**30/Abr/2023**
+
+- Publicado os slides da aula 10 em [slides](slides).
+- Publicada a ficha de trabalho da aula 10 em [Pratica1](Pratica1).
+
 **27/Abr/2023**
 
 - Publicado o enunciado do trabalho de PD2 em [Pratica2](Pratica2).
