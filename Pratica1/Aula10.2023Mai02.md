@@ -115,7 +115,7 @@ Técnica de pseudonimização e caso de uso a avaliar:
 + _Secure Multiparty Computation_ e  _Security Operations Centers use case_ - Grupos 6, 13
 + _Secret sharing schemes_ e _Consumer customer support use case_ - Grupos 7, 14
 
-#### Pergunta P1.4
+#### Experiência 1.5
 
 Na tabela 1 do documento [_Online privacy tools for the general public - Towards a methodology for the evaluation of PETs for internet & mobile users_](Aula10/ENISA.Study-on-the-availability-of-trustworthy-online-privacy-tools-for-the-general-public.pdf) são apresentados os portais web mais relevantes na promoção da utilização de ferramentas que garantem a privacidade dos dados (e/ou do utilizador).
 
