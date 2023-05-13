@@ -2,6 +2,8 @@
 
 ----
 
+## Nota: No dia 16 de Maio a aula 12 não é presencial, estando o video da aula disponibilizado em [video_aulas](video_aulas)
+
 ----
 
 ## Sub-diretorias
@@ -28,6 +30,12 @@ Nota: Obtenha a app para o seu desktop ou dispositivo móvel em <https://matterm
 Os alunos devem contactar o docente para marcar horário de acompanhamento (extra aulas), sempre que necessitarem.
 
 ## Avisos
+
+**13/Mai/2023**
+
+- Publicado os slides da aula 12 em [slides](slides).
+- Publicado o video da aula 12 em [video_aulas](video_aulas).
+- Publicada a ficha de trabalho da aula 12 em [Pratica1](Pratica1).
 
 **30/Abr/2023**
 

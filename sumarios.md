@@ -142,3 +142,30 @@
 + Exercícios sobre a componente teórica.
 + Projeto de desenvolvimento 2 (PD2)
 + Apresentações do PD1
+
+## Semana 11 - 09/Mai/2023
+
+Semana sem contacto com os alunos.
+
+**Prática**:
+
++ Projeto de desenvolvimento 2 (PD2)
+
+## Semana 12 - 16/Mai/2023
+
+**Teórica**:
+
+ Segurança de software:
+
++ Conceitos
++ Vulnerabilidades
++ Desenvolvimento de software seguro
++ Boas práticas de desenvolvimento de software
+  + _Style Guides_, nomeadamente o _Java Style Guide_ da Google
+  + Melhores práticas para comentar código fonte
+  + Javadoc
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 2 (PD2)
