@@ -19,7 +19,7 @@ Aceda a <https://cwe.mitre.org/> e veja quais as vulnerabilidades que são ident
 
 Veja ainda quais as vulnerabilidades identificadas como:
 
-- _CWE/SANS Top 25 Most Dangerous Software Errors_ (2021) - <https://cwe.mitre.org/top25/>
+- _CWE/SANS Top 25 Most Dangerous Software Errors_ (2022) - <https://cwe.mitre.org/top25/>
 - _OWASP Top Ten_ (2021) - <https://cwe.mitre.org/data/definitions/1344.html>
 
 #### Pergunta 1.1 - _Common Weakness Enumeration_ (CWE)

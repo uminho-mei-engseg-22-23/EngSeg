@@ -13,9 +13,9 @@ Data: Os trabalhos serão apresentados durante a segunda parte da aula de 3ª fe
 + Grupo 4 - 30/05/2023
 + Grupo 5 - 30/05/2023
 + Grupo 6 - 30/05/2023
-+ Grupo 7 - 23/05/2023
-+ Grupo 8 - 23/05/2023
-+ Grupo 9 - 23/05/2023
++ Grupo 7 - 30/05/2023
++ Grupo 8 - 30/05/2023
++ Grupo 9 - 30/05/2023
 
 Nota: Para além da apresentação oral do trabalho, também se vai querer ver o trabalho a funcionar, assim como aceder ao código fonte para que possam explicar código desenvolvido.
 

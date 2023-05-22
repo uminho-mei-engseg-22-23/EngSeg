@@ -169,3 +169,18 @@ Semana sem contacto com os alunos.
 
 + Exercícios sobre a componente teórica.
 + Projeto de desenvolvimento 2 (PD2)
+
+## Semana 13 - 23/Mai/2023
+
+**Teórica**:
+
+ Segurança de software:
+
++ Vulnerabilidade de Buffer overflow
++ Vulnerabilidade de inteiros
++ Validação de input
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 2 (PD2)
