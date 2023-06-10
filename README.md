@@ -2,6 +2,8 @@
 
 ----
 
+## Entrega de PD2 adiada para 23/06/2023
+
 ----
 
 ## Sub-diretorias
@@ -11,7 +13,7 @@
 - [Pratica2](Pratica2) - enunciados dos projetos de avaliação prática 2, nomeadamente:
   - PA – Projeto análise de um tema, com elaboração de relatório, assim como exposição do trabalho, com entrega de relatório até 20/03/2023.
   - PD1 - Projeto para consolidação dos conceitos básicos de criptografia, com entrega final até 24/04/2023.
-  - PD2 – Projeto de desenvolvimento, com entrega final até 15/06/2023.
+  - PD2 – Projeto de desenvolvimento, com entrega final até 23/06/2023.
 - [Época Especial](EpocaEspecial) - informação sobre a época especial.
 - [slides](slides) - contém os slides de apoio às aulas teóricas.
 - [video_aulas](video_aulas) - contém o video das aulas teóricas (para aulas pré-gravadas ou lecionadas remotamente).
