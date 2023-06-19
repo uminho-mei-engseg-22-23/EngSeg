@@ -184,3 +184,15 @@ Semana sem contacto com os alunos.
 
 + Exercícios sobre a componente teórica.
 + Projeto de desenvolvimento 2 (PD2)
+
+## Semana 14 - 30/Mai/2023
+
+**Teórica**:
+
++ Política de cibersegurança
++ Funções de CISO e DPO numa organização
+
+**Prática**:
+
++ Exercícios sobre a componente teórica.
++ Projeto de desenvolvimento 2 (PD2)
