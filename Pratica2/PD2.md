@@ -9,22 +9,22 @@ De seguida são apresentados os vários projetos de desenvolvimento 2. O relató
 
 Para além da apresentação oral do trabalho, também se vai querer ver o trabalho a funcionar, assim como aceder ao código fonte para que possam explicar código desenvolvido ou algumas das alterações efetuadas.
 
-Data e hora: A definir
+Local: remoto via Zoom, em <https://us02web.zoom.us/j/84769107997?pwd=Qi9KbXNQOXlqWG9DQ2RNSVorKzFPdz09>
+Data e hora:
 
-+ Grupo 1 -
-+ Grupo 2 -
-+ Grupo 3 -
-+ Grupo 4 -
-+ Grupo 5 -
-+ Grupo 6 -
-+ Grupo 7 -
-+ Grupo 8 -
-+ Grupo 9 -
-+ Grupo 10 -
-+ Grupo 11 -
-+ Grupo 12 -
-+ Grupo 13 -
-+ Grupo 14 -
++ Grupo 1 - 27/06/2023 às 10h00
++ Grupo 2 - 27/06/2023 às 10h30
++ Grupo 3 - 27/06/2023 às 11h00
++ Grupo 4 - 27/06/2023 às 11h30
++ Grupo 5 - 27/06/2023 às 12h00
++ Grupo 6 - 27/06/2023 às 12h30
++ Grupo 7 - 27/06/2023 às 16h00
++ Grupo 8 - 27/06/2023 às 16h30
++ Grupo 9 - 27/06/2023 às 17h00
++ Grupo 10 - 27/06/2023 às 17h30
++ Grupo 13 - 27/06/2023 às 18h00
+
+Caso exista algum grupo não identificado, por favor contactem o docente da UC.
 
 ## Avaliação do PD2
 
@@ -95,3 +95,5 @@ Este trabalho será efetuado pelos Grupos:
 + Grupo 13, que para além do que é pedido acima, adiciona a possibilidade de assinar com chaves privadas (e respetivos certificados na hierarquia até à Entidade de Certificação raiz) em ficheiro (formato DER),  nas opções de assinatura: _Sign a digest_.
 + Grupo 14, que para além do que é pedido acima, adiciona a possibilidade de assinar com chaves privadas (e respetivos certificados na hierarquia até à Entidade de Certificação raiz) em ficheiro (formato DER),  nas opções de assinatura: _Sign with JAdES_.
 + Grupo 15, que para além do que é pedido acima, adiciona a possibilidade de assinar com chaves privadas (e respetivos certificados na hierarquia até à Entidade de Certificação na raiz) em ficheiro (formato DER),  nas opções de assinatura: _Counter sign a signature_.
+
+Caso exista algum Grupo não identificado, poderão escolher o trabalho a efetuar e deverão indicar qual a sua escolha no relatório final.
