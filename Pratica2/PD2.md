@@ -12,17 +12,18 @@ Para além da apresentação oral do trabalho, também se vai querer ver o traba
 Local: remoto via Zoom, em <https://us02web.zoom.us/j/84769107997?pwd=Qi9KbXNQOXlqWG9DQ2RNSVorKzFPdz09>
 Data e hora:
 
-+ Grupo 1 - 27/06/2023 às 10h00
-+ Grupo 2 - 27/06/2023 às 10h30
-+ Grupo 3 - 27/06/2023 às 11h00
-+ Grupo 4 - 27/06/2023 às 11h30
++ Grupo 1 - 27/06/2023 às 11h00
++ Grupo 3 - 27/06/2023 às 11h30
 + Grupo 5 - 27/06/2023 às 12h00
 + Grupo 6 - 27/06/2023 às 12h30
 + Grupo 7 - 27/06/2023 às 16h00
 + Grupo 8 - 27/06/2023 às 16h30
 + Grupo 9 - 27/06/2023 às 17h00
 + Grupo 10 - 27/06/2023 às 17h30
-+ Grupo 13 - 27/06/2023 às 18h00
++ Grupo 4 - 27/06/2023 às 18h00
++ Grupo 2 - 27/06/2023 às 18h30
+
++ Grupo 13 - 28/06/2023 às 19h00
 
 Caso exista algum grupo não identificado, por favor contactem o docente da UC.
 
