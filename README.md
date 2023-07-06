@@ -31,6 +31,10 @@ Os alunos devem contactar o docente para marcar horário de acompanhamento (extr
 
 ## Avisos
 
+**06/Jul/2023**
+
+- Foi publicado o trabalho de PD2 para a época especial em [EpocaEspecial](EpocaEspecial)
+
 **22/Mai/2023**
 
 - Publicado os slides da aula 13 em [slides](slides).

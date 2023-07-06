@@ -3,7 +3,7 @@
 Na época especial poderá melhorar a sua nota de PD2. Para tal terá que se inscrever na época especial através do portal académico ou serviços académicos da Universidade do Minho.
 
 ---
-De seguida são apresentados os vários projetos para a época especial. O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 26/07/2022, na subdiretoria "EpocaEspecial" (**Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente**).
+De seguida são apresentados os vários projetos para a época especial. O relatório final e o código fonte deverá ser colocado na área do Grupo no github até ao dia 26/07/2023, na subdiretoria "EpocaEspecial" (**Note que no relatório tem de indicar os passos necessários para se poder testar o código fonte, incluindo o ambiente**).
 
 ## Data e horário de apresentação do trabalho
 
