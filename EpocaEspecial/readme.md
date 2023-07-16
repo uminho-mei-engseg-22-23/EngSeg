@@ -53,7 +53,7 @@ Os seus colegas do ano letivo 2020/21 alteraram a _DSS Demo WebApp_ - versão 5.
 + Chave Móvel Digital, e
 + a fonte de _timestmap_ do Cartão de Cidadão, de modo a não se utilizar a _dummy timestamp source_ que é utilizada nas várias opções da Demo WebApp que utilizam _timestamp_.
 
-Neste seu PD2, Pretende-se que instale e coloque a funcionar a _DSS Standalone Application_, e que adicionalmente adicione pelo menos duas das 3 seguintes funcionalidades:
+Neste seu PD2, Pretende-se que instale e coloque a funcionar a _DSS Standalone Application_, e que  adicione pelo menos duas das 3 seguintes funcionalidades (sem recurso ao NexU):
 
 + assinatura com o Cartão de Cidadão,
 + assinatura com a Chave Móvel Digital,
