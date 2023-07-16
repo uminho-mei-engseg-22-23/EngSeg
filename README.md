@@ -33,7 +33,7 @@ Os alunos devem contactar o docente para marcar horário de acompanhamento (extr
 
 **17/Jul/2023**
 
-- No seguimento de dúvidas colocadas relativamente ao PD2 para a época especial em [EpocaEspecial](EpocaEspecial), foi indicado que as funcionalidades requeridas não podem utilizar o NexU.
+- No seguimento de dúvidas colocadas relativamente ao PD2 para a época especial em [EpocaEspecial](EpocaEspecial), foi esclarecido que as funcionalidades requeridas não podem utilizar o NexU.
 
 **06/Jul/2023**
 
